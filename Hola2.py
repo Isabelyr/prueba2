@@ -1,2 +1,2 @@
 print('Hola Mundo')
-print('Nuevo mensaje: segundo fichero python')
+print('Mensaje para probar git reset')
